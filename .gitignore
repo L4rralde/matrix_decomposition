@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.vscode
+semi_positive*
+__pycache__
+*.o
+.DS_Store
